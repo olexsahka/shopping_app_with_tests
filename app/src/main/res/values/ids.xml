@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etSearch" type="id" />
+    <item name="rvImages" type="id" />
+    <item name="progressBar" type="id" />
+</resources>
